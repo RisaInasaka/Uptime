@@ -45,7 +45,6 @@ status-website:
   scripts:
     - src: https://unpkg.com/animejs/lib/anime.min.js
     - src: https://static.inasaka.eu.org/js/fireworks.min.js
-robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
