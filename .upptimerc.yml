@@ -34,17 +34,13 @@ status-website:
   baseUrl: /Uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Risa Uptime
-  introTitle: "Powered by MeaquaDotWork"
-  introMessage: This is MeaquaDotWork Monitoring Page.
+  introTitle: "This is MeaquaDotWork Monitoring Page."
+  introMessage: "Powered by MeaquaDotWork"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customBodyHtml: '<canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>'
-  scripts:
-    - src: https://unpkg.com/animejs/lib/anime.min.js
-    - src: https://static.inasaka.eu.org/js/fireworks.min.js
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
