@@ -130,19 +130,19 @@
     "url": "https://meaqua.netlify.app",
     "icon": "https://favicons.githubusercontent.com/meaqua.netlify.app",
     "slug": "netlify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 31,
-    "timeWeek": 64,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 290,
+    "timeDay": 255,
+    "timeWeek": 110,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 12
     }
   },
   {
