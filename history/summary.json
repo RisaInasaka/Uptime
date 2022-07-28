@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/meaqua.netlify.app",
     "slug": "netlify",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 1039,
     "timeWeek": 466,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {
-      "2022-07-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Render",
@@ -168,9 +166,9 @@
     "url": "https://meaqua-work.vercel.app",
     "icon": "https://favicons.githubusercontent.com/meaqua-work.vercel.app",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +177,9 @@
     "timeWeek": 74,
     "timeMonth": 133,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "4everland",
@@ -187,11 +187,11 @@
     "icon": "https://favicons.githubusercontent.com/meaqua.4everland.app",
     "slug": "4everland",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 404,
     "timeDay": 432,
     "timeWeek": 316,
